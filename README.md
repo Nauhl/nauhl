@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**Nauhl/nauhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github.com/Nauhl/nauhl/blob/master/Javascript.gif)
 
-Here are some ideas to get you started:
+## Hello there! I'm Nauhl Valdez, web developer from Mexico. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Donde me puedes encontrar:
+
+_Personal_
+
+* :wink: Portafolio de proyectos: not yet. <!--**[Works](poner aqui la pagina de portafolio)** :v:-->
+* :postbox: Facebook: Nauhl Valdez **[Facebook](https://www.facebook.com/me/)** :v:
+* :whale2: Twitter: no lo uso **[Twitter](https://twitter.com/ValdezNauhl)** 
+* :red_circle: Youtube channel: ??? (not yet) <!--**[Videos](canal de youtube)** :v:-->
+- 🔭 I’m currently working on a project
+- 🌱 I’m currently learning React
+- ⚡ Fun fact the ecuation e=mc^2 it's incomplete
+
